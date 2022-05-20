@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 Gonzalez Fermin(ALFA), Alegre Gabriel(BETA) y Hernandez Nicolas(GAMMA)
+=======
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+a) Para actualizar el repositorio forkeado hago un pull con el linck del repositorio original.
+b) Pulleando el repositorio con el linck de GAMA se pudo actualizar el repositorio de ALPFA
+>>>>>>> 5ac81767393472a7b4229f21180da83a0aeec088
+c)Si, puede. Pulleando el repositorio del link de Alfa.
+d)No, no se pierden.
