@@ -1,0 +1,87 @@
+<<<<<<< HEAD
+Gonzalez Fermin(ALFA), Alegre Gabriel(BETA) y Hernandez Nicolas(GAMMA)
+=======
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+a) Para actualizar el repositorio forkeado hago un pull con el linck del repositorio original.
+b) Pulleando el repositorio con el linck de GAMA se pudo actualizar el repositorio de ALPFA
+c)Si, puede. Pulleando el repositorio del link de Alfa.
+d)No, no se pierden.
+e) 
+Gabriel Alegre (BETA):
+1- Creo repositorio TP_SO_i2_107
+2- Creo fork.txt
+3- git add .
+4- git commit -m “”
+5- git push
+
+Nicolas Hernández (GAMMA):
+6- Realice un Fork al repositorio de Beta
+7- Clone el repositorio forkeado del paso anterior
+8- Modifique el fork.txt con mis datos
+9- git add .
+10- git commit -m “”
+11- git push
+
+Fermín González (ALFA):
+12- Realice un Fork al repositorio de Beta
+13- Clone el repositorio forkeado del paso anterior
+14- Modifique el fork.txt con mis datos
+15- git add .
+16- git commit -m “”
+17- git push
+
+Gabriel Alegre (BETA):
+18- Creo “NuevoDato.txt”
+19- git add .
+20- git commit -m “”
+21- git push
+
+Fermín González (ALFA) y Nicolas Hernández (GAMMA):
+22- Pulleamos el repositorio de beta para actualizar nuestro repositorio en el estado que lo dejo. Comando: Git pull https://github.com/GabrielAlegre/TP_SO_i2_107.git
+
+Gabriel Alegre (BETA):
+23- Cree “respuesta_I2_Equipo107.txt”
+24- git add .
+25- git commit -m “”
+26- git push
+
+Fermín González (ALFA) y Nicolas Hernández (GAMMA):
+27- Pulleamos el repositorio de beta para actualizar nuestro repositorio en el estado que lo dejo. Comando: Git pull https://github.com/GabrielAlegre/TP_SO_i2_107.git
+
+Nicolas Hernández (GAMMA):
+28- respondo pregunta a y b
+29- git add .
+30- git commit -m “”
+31- git push
+
+Gabriel Alegre (BETA):
+32- Pulleo el repositorio de GAMMA para actualizar mi repositorio en el estado que lo dejo, con las respuestas a y b resueltas.
+ Comando: Git pull https://github.com/Hernandez-Nicolas/TP_SO_i2_107.git
+33- respondo preguntas c y d
+34- git add .
+35- git commit -m “”
+36- git push
+
+Fermín González (ALFA):
+37- Pulleo el repositorio de beta para actualizar mi repositorio en el estado que lo dejo, con las respuestas a, b, c y d resueltas. 
+Comando: Git pull https://github.com/GabrielAlegre/TP_SO_i2_107.git
+38- respondo pregunta e
+39- git add .
+40- git commit -m “”
+41- git push
+
+Gabriel Alegre (BETA):
+42- Pulleo el repositorio de ALFA para actualizar mi repositorio en el estado que lo dejo, con todas las respuestas resueltas.
+ Comando: Git pull https://github.com/Siomermin/TP_SO_i2_107.git
+43- git add .
+44- git commit -m “”
+45- git push
+
+>>>>>>> 5ac81767393472a7b4229f21180da83a0aeec088

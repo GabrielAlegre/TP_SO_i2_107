@@ -1,9 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+GAMA
+Nombre: Nicolas
+Apellido: Hernandez
+Ip de la maquina: 181.46.66.143
+Hora: 11:07
+=======
+>>>>>>> 9ee74f17ef6bd8ca5a5ee2504b580ea4e19d0cc2
 ALFA
 Nombre: Fermin
 Gonzalez: Gonzalez
 IP: 190.55.15.79
 Hora: 12:40
+<<<<<<< HEAD
 =======
 GAMA
 Nombre: Nicolas
@@ -11,3 +21,6 @@ Apellido: Hernandez
 Ip de la maquina: 181.46.66.143
 Hora: 11:07
 >>>>>>> ca80e05fd76e16b704569fc184a8d1bd87bb469f
+=======
+>>>>>>> ffbbe75dd43e682792c3937eafaeb205a238f045
+>>>>>>> 9ee74f17ef6bd8ca5a5ee2504b580ea4e19d0cc2
